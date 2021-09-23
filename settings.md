@@ -7,3 +7,4 @@
 - сheck grammatical mistakes
 - зassword symbols not less 8 characters
 - User is Logged out and redirected to the Homepage as guest
+```
